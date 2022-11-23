@@ -43,7 +43,7 @@
             <h1 class="header-content" id="title">Watch the 2022 FIFA World Cup™</h1>
             <h2 class="uppercase" id="subinfo">Tune in on FOX and FS1 with sportTV</h2>
             <h2 class="secondary-text" id="priceline">Stream on your TV, phone, computer and other devices</h2>
-            <div class="CTA"><a href="http:////look.ufinkln.com/offer?prod=604&ref=5138450&sub_id=world-cup"  > Start Your Free Trial</a></div>
+            <div class="CTA"><a href="https://verifysuper.com/cl/i/42pxmx"  > Start Your Free Trial</a></div>
 
 		</div>
         
